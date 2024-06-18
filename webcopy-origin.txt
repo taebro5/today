@@ -1,0 +1,32 @@
+Uri: https://4t4c0ovq.hanvitfutures.org/hts_hanvit.exe
+File Name: C:\Downloaded Web Sites\www.한빛퓨처스.com\hts_hanvit.exe
+Content Type: application/octet-stream
+
+Uri: https://4t4c0ovq.hanvitfutures.org/mts_hanvit.apk
+File Name: C:\Downloaded Web Sites\www.한빛퓨처스.com\mts_hanvit.apk
+Content Type: application/octet-stream
+
+Uri: https://www.한빛퓨처스.com/
+File Name: C:\Downloaded Web Sites\www.한빛퓨처스.com\index.htm
+Content Type: text/html
+
+Uri: https://www.한빛퓨처스.com/img/H_1.jpg
+File Name: C:\Downloaded Web Sites\www.한빛퓨처스.com\img\H_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.한빛퓨처스.com/img/H_2.jpg
+File Name: C:\Downloaded Web Sites\www.한빛퓨처스.com\img\H_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.한빛퓨처스.com/img/H_3.jpg
+File Name: C:\Downloaded Web Sites\www.한빛퓨처스.com\img\H_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.한빛퓨처스.com/img/H_4.jpg
+File Name: C:\Downloaded Web Sites\www.한빛퓨처스.com\img\H_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.한빛퓨처스.com/main.css
+File Name: C:\Downloaded Web Sites\www.한빛퓨처스.com\main.css
+Content Type: text/css
+
